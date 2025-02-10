@@ -62,23 +62,23 @@ html body{
     border-radius: 0.5rem;
     /* margin-right: 20px */
     gap: 20px;
-    margin-top: 10px;
+    margin-top: 9px;
 }
 
 .fb{
-    margin-top : 30px;
+    margin-top :25px;
 }
 
-.Apple{
+/* .Apple{
     border-radius: 10px 10px;
     border-style: none;
     
-}
+} */
 
-.Apple:hover{
+/* .Apple:hover{
     background-color: #888;
     cursor: pointer;
-}
+} */
 .Facebook{
     border-radius: 10px 10px;
     border-style: none;
@@ -88,14 +88,14 @@ html body{
     cursor: pointer; 
 }
 
-.Microsoft{
+/* .Microsoft{
     border-radius: 10px 10px;
     border-style: none;
 }
 .Microsoft:hover{
     background-color: #888;
      cursor: pointer; 
- }
+ } */
 
 .button-container span{
     color: black;
